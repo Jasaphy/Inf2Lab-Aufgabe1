@@ -1,5 +1,5 @@
-//main 
-
+//Jakob Frank und Volodymyr Burdiian
+//
 #include <iostream>
 #include "vectorlib.h"
 
@@ -20,7 +20,7 @@ int main() {
 		cout << i << ". Arrayelement -> ";
 		cin >> *ptr;
 		i++;
-	}
+	} 
 	i = 1;
 
 	cout << "Geben Sie die Laenge des 2. Arrays ein(max. 10) -> ";
